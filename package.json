@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "test node exp os",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scabhi/hello-world.git"
+  },
+  "author": "scabhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scabhi/hello-world/issues"
+  },
+  "homepage": "https://github.com/scabhi/hello-world#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
